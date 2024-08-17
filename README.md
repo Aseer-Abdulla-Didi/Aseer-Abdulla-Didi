@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aseer-Abdulla-Didi
+- 👋 Hi, I’m @Aseer
 - 👀 I’m interested in WebDevelopment
 - 🌱 I’m currently learning Html, Css, bootstrap, jQuery, C#, javascript, mySql and Sql
 - 📫 How to reach me aseer.a.didi@gmail.com
